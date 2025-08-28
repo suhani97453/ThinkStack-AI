@@ -4,28 +4,30 @@ ThinkStack.ai ThinkStack.ai is a full stack AI-powered SaaS application built wi
 🚀 Features
 AI Article Writer
 
-Generate high-quality, SEO-friendly articles on any topic.
-Choose from short (500–800 words), medium (800–1200 words), and long (1200+ words) formats.
+->Generate high-quality, SEO-friendly articles on any topic.
+->Choose from short (500–800 words), medium (800–1200 words), and long (1200+ words) formats.
+
 Blog Title Generator
 
-Create catchy and relevant blog titles using keywords and categories.
-AI Image Generator
+->Create catchy and relevant blog titles using keywords and categories.
+->AI Image Generator
 
 Describe any scene and let AI generate:
 
-Realistic images
-Ghibli-style illustrations
-Anime-style artwork
-3D-style renderings
-Background & Object Removal
+->Realistic images
+->Ghibli-style illustrations
+->Anime-style artwork
+->3D-style renderings
 
-Easily remove unwanted backgrounds or objects from your images.
-Resume Review
-
-Upload your resume and get AI-powered analysis and suggestions for improvement.
-User Dashboard
-
-Track all your creations, manage plans, and access tools from a clean, intuitive interface.
+->Background & Object Removal
+  Easily remove unwanted backgrounds or objects from your images.
+  
+->Resume Review
+  Upload your resume and get AI-powered analysis and suggestions for improvement.
+  
+->User Dashboard
+  Track all your creations, manage plans, and access tools from a clean, intuitive interface.
+  
 💻 Tech Stack
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js (API)
