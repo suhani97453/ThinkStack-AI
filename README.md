@@ -31,14 +31,5 @@ Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js (API)
 Database: Postgres(NEON)
 AI Integration: OpenAI APIs, Image Processing APIs
-Hosting: Vercel
-📦 Installation (For Development)
-# Clone the repository
-git clone https://github.com/sumu9897/Quick-AI.git
-cd Quick-AI
 
-# Install dependencies
-npm install
 
-# Start the development server
-npm run dev
