@@ -15,23 +15,33 @@ Blog Title Generator
 Describe any scene and let AI generate:
 
 ->Realistic images
+
 ->Ghibli-style illustrations
+
 ->Anime-style artwork
+
 ->3D-style renderings
 
 ->Background & Object Removal
-  Easily remove unwanted backgrounds or objects from your images.
+
+   *Easily remove unwanted backgrounds or objects from your images.
   
 ->Resume Review
-  Upload your resume and get AI-powered analysis and suggestions for improvement.
+
+   *Upload your resume and get AI-powered analysis and suggestions for improvement.
   
 ->User Dashboard
-  Track all your creations, manage plans, and access tools from a clean, intuitive interface.
+
+   *Track all your creations, manage plans, and access tools from a clean, intuitive interface.
   
 💻 Tech Stack
+
 Frontend: React.js, Tailwind CSS
+
 Backend: Node.js, Express.js (API)
+
 Database: Postgres(NEON)
+
 AI Integration: OpenAI APIs, Image Processing APIs
 
 
